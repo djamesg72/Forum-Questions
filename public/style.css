@@ -1,0 +1,16 @@
+#canvascanvas {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: -2;
+}
+
+
+#gameCanvas {
+  width: inherit;
+  height: inherit;
+  position: relative;
+  top: 0;
+  left: 0;
+  z-index: inherit;
+}
